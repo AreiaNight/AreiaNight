@@ -39,6 +39,9 @@ Currently learning and evolving my skills in cybersecurity, system administratio
   </a>
 </div>
 
+<br><br><br><br><br><br><br><br><br><br><br><br>
+
+
 ## Featured Repositories
 
 <img src="https://static.tvtropes.org/pmwiki/pub/images/hope_2.jpg" alt="img" align="left" width="400px">
