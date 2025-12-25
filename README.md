@@ -1,4 +1,4 @@
-# AreiaNigth
+# AreiaNight
 
 <br><div align="center"> <i>"Knowledge is the true immortality in this digital world"</i> </div><br>
 
