@@ -1,185 +1,74 @@
-## Hi there 👋
+# AreiaNigth
 
-<!--
-**AreiaNight/AreiaNight** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...<div align="center">
-
-```
-╔═══════════════════════════════════════════════════════════════════╗
-║                                                                   ║
-║     ▄▀█ █▀█ █▀▀ █ ▄▀█   █▄░█ █ █▀▀ █░█ ▀█▀                      ║
-║     █▀█ █▀▄ ██▄ █ █▀█   █░▀█ █ █▄█ █▀█ ░█░                      ║
-║                                                                   ║
-║           "In the shadows, we write our own code"                ║
-║                                                                   ║
-╚═══════════════════════════════════════════════════════════════════╝
-```
-
-<img src="https://static.pressakey.de/gfxmusic/vampire-the-masquerade-coteries-of-new-york-original-soundtrack--1623700875.jpg" alt="Vampire: The Masquerade" width="300"/>
-
-</div>
-
----
-
-## About Me
+<br><div align="center"> <i>"Knowledge is the true immortality in this digital world"</i> </div><br>
 
 Like a Kindred navigating the nights of New York, I traverse the digital shadows with purpose. My code is my discipline, each script a carefully cultivated manifestation of power. Between terminal lines and silent exploits, I study system weaknesses not to destroy, but to understand and fortify.
-
-*"Knowledge is the true immortality in this digital world"*
-
 Currently learning and evolving my skills in cybersecurity, system administration, and software development.
 
----
+<br>
 
-## Tech Stack
+<img src="https://static.pressakey.de/gfxmusic/vampire-the-masquerade-coteries-of-new-york-original-soundtrack--1623700875.jpg" alt="img" align="right" width="400px">
 
-```bash
-#!/bin/bash
-# The night is young, and my knowledge grows...
-
-declare -A skills=(
-    ["bash"]="The language of Unix systems"
-    ["go"]="Building robust tools"
-    ["lua"]="Elegant and efficient scripts"
-    ["html/css"]="Crafting web experiences"
-    ["pentesting"]="Ethical vulnerability exploration"
-    ["malware_research"]="Threat analysis for mitigation"
-)
-
-echo "Forever learning, forever evolving..."
-```
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" height="40" alt="go logo"  />
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" height="30" alt="go logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" alt="bash logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="30" alt="bash logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" height="40" alt="lua logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" height="30" alt="lua logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" height="40" alt="html5 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" height="30" alt="html5 logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" height="40" alt="css logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" height="30" alt="css logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" alt="docker logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="30" alt="docker logo"  />
 </div>
 
-###
+<br>
 
-### Specialties
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AreiaNight&theme=tokyonight&hide_border=true"/>
+</p>
+<br> 
+<div align="center">
+  <a href="ThePunkster" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+  </a>
+  <a href="areia_night@proton.me" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  </a>
+</div>
 
-- **Pentesting & Security Research** - Hunting vulnerabilities in the darkness
-- **Malware Analysis** - Deciphering threats to build defenses
-- **Shell Scripting** - Nocturnal automation
-- **System Administration** - Mastering Arch, Debian, and Kali
-- **Web Development** - Creating digital presences
+## Featured Repositories
 
----
+<img src="https://static.tvtropes.org/pmwiki/pub/images/hope_2.jpg" alt="img" align="left" width="400px">
+<br><br><br><br><br><br>
 
+**Automated Arch Linux setup**
+
+Scripts for fast, reproducible Arch Linux installations.  
+Focused on automation, minimalism, and post-install hardening.
+
+https://github.com/AreiaNight/archsetup
+
+**Educational Go security project**
+
+Learning Go through security-oriented tooling and experiments.  
+Built with defensive security and systems programming in mind.
+
+https://github.com/AreiaNight/areiaware-go
+
+<br><br><br><br><br><br>
 ## Night Soundtracks
 
-Every coding night needs its music:
-
 <div align="center">
-
-| **Epic: The Musical** | **Kpop Demon Hunters** | **Mentiras La Serie** |
-|:---:|:---:|:---:|
-| *The complete epic* | *Demonic energy* | *Dark narratives* |
+  <img src="https://m.media-amazon.com/images/I/81qjPY3IDXL._US3200_BL50_BG34,34,34_CLa%7C3200,3200%7C81qjPY3IDXL.jpg,81fl+yt5R9L.jpg,815aIfHuWTL.jpg,91q57GSEQUL.jpg%7C0,0,3200,3200+0,0,1600,1600+1600,0,1600,1600+0,1600,1600,1600+1600,1600,1600,1600.jpg" height="300" alt="go logo"  />
+  <img width="12" />
+<img src="https://i1.sndcdn.com/artworks-1jI1zinhMVx8IX9b-RvabcQ-t1080x1080.jpg" height="300" alt="go logo"  />
+  <img width="12" />
+    <img src="https://i.scdn.co/image/ab67616d0000b273b2a8a6cd42cf46823f3e84fb" height="300" alt="go logo"  />
+  <img width="12" />
 
 </div>
 
----
 
-## Featured Projects
 
-My creations emerge from necessity and curiosity:
-
-**[panicButton-A-go-project](https://github.com/AreiaNight/panicButton-A-go-project)** - Educational project: a reactive protection system written in Go
-
-**[areianight.github.io](https://github.com/AreiaNight/areianight.github.io)** - My personal domain on the web
-
-**[archsetup](https://github.com/AreiaNight/archsetup)** - Automated setup for Arch with BSPWM
-
-**[searchingmachineHTB](https://github.com/AreiaNight/searchingmachineHTB)** - Hack The Box machine searcher
-
-**[my_tools](https://github.com/AreiaNight/my_tools)** - Installation suite for pentesting tools
-
----
-
-## TryHackMe Progress
-
-<div align="center">
-
-<img src="https://tryhackme-badges.s3.amazonaws.com/3310826.png" alt="TryHackMe Badge">
-
-*"Every discovered vulnerability is a lesson learned"*
-
-</div>
-
----
-
-## Contact
-
-<div align="center">
-
-<a href="https://discord.com/users/ThePunkster" target="_blank">
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-</a>
-
-<a href="mailto:areia_night@proton.me" target="_blank">
-  <img src="https://img.shields.io/static/v1?message=ProtonMail&logo=protonmail&label=&color=8B89CC&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="protonmail logo"  />
-</a>
-
-<a href="https://areianight.github.io" target="_blank">
-  <img src="https://img.shields.io/static/v1?message=Website&logo=google-chrome&label=&color=4285F4&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="website logo"  />
-</a>
-
-</div>
-
----
-
-<div align="center">
-
-### *"In every line of code, a fragment of eternity"*
-
-```
-    ___________________
-   /\                  \
-  /  \    FOREVER       \
- /    \   LEARNING       \
-/______\___________________\
-```
-
-**The Masquerade continues...**
-
----
-
-*"The best exploits are those no one sees coming"*
-
-<img src="https://visitor-badge.laobi.icu/badge?page_id=AreiaNight.AreiaNight" alt="visitors"/>
-
-</div>
-
----
-
-<div align="center">
-
-### GitHub Activity
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AreiaNight&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=c9d1d9&text_color=8b949e&icon_color=58a6ff)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AreiaNight&theme=dark&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=c9d1d9)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AreiaNight&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=c9d1d9&text_color=8b949e)
-
-</div>
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
