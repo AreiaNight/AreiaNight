@@ -2,6 +2,10 @@
 
 <br><div align="center"> <i>"Knowledge is the true immortality in this digital world"</i> </div><br>
 
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AreiaNight&theme=tokyonight&hide_border=true"/>
+</p>
+
 Like a Kindred navigating the nights of New York, I traverse the digital shadows with purpose. My code is my discipline, each script a carefully cultivated manifestation of power. Between terminal lines and silent exploits, I study system weaknesses not to destroy, but to understand and fortify.
 Currently learning and evolving my skills in cybersecurity, system administration, and software development.
 
@@ -25,9 +29,6 @@ Currently learning and evolving my skills in cybersecurity, system administratio
 
 <br>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AreiaNight&theme=tokyonight&hide_border=true"/>
-</p>
 <br> 
 <div align="center">
   <a href="ThePunkster" target="_blank">
